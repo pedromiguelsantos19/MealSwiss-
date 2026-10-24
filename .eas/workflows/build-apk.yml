@@ -1,6 +1,8 @@
 name: MealSwiss Android APK
 on:
   workflow_dispatch: {}
+  push:
+    branches: ['main']
 jobs:
   build_android:
     type: build
