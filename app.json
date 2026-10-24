@@ -1,9 +1,0 @@
-{
-  "expo": {
-    "name":"MealSwiss", "slug":"mealswiss", "owner":"mealswiss2027s-team", "version":"2.0.0", "scheme":"mealswiss", "orientation":"portrait",
-    "icon":"./assets/icon.png", "userInterfaceStyle":"light", "newArchEnabled":true,
-    "android":{"package":"ch.mealswiss.app", "versionCode":2, "adaptiveIcon":{"foregroundImage":"./assets/icon.png","backgroundColor":"#FF7900"},"edgeToEdgeEnabled":true},
-    "plugins":["expo-image-picker"],
-    "extra":{"eas":{"projectId":"3b6373ea-c50f-460a-b08b-016cf67d929f"},"apiUrl":""}
-  }
-}
