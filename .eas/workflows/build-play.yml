@@ -1,1 +1,9 @@
-
+name: MealSwiss Google Play AAB
+on:
+  workflow_dispatch: {}
+jobs:
+  build_android:
+    type: build
+    params:
+      platform: android
+      profile: production
